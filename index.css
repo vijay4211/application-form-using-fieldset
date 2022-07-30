@@ -1,0 +1,60 @@
+
+#main_container{
+    width: 37%;
+    /* border: 1px solid red; */
+    margin: auto;
+
+}
+
+#fieldset{
+    width: 200px;
+}
+
+
+#full_name{
+    margin-left: 195px;
+}
+#email{
+    margin-left: 224px;
+    margin-top: 10px;
+}
+#male{
+    margin-left: 214px;
+    margin-top: 10px;
+}
+#select_nationality{
+    margin-left: 190px;
+    width: 200px;
+    margin-top: 10px;
+}
+#asp_jqery{
+    margin-left: 225px;
+    margin-top: 10px;
+}
+#mvc_sql{
+    margin-left: 265px;
+    margin-top: 10px;
+}
+#sqlServer{
+    margin-left: 21px;
+}
+#trainee_software{
+    margin-left: 150px;
+}
+#team_project{
+    margin-left: 263px;
+}
+#softwareEnginner{
+    margin-left: 40px;
+}
+#file{
+    margin-left: 150px;
+    margin-top: 10PX;
+}
+#textArea{
+    margin-left: 150px;
+    margin-top: 10px;
+}
+#submit_reset{
+    margin-left: 100px;
+}
